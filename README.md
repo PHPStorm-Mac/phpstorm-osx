@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/phpstorm">  
+<a href="https://osx-get-software.github.io/.github/phpstorm">  
 <img src="https://img.shields.io/badge/💻_Get_PhpStorm-darkgreen?style=for-the-badge&logo=apple" alt="PhpStorm">  
 </a>  
 </div>  
